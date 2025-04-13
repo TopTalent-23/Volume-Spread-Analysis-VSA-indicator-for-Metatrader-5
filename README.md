@@ -1,6 +1,14 @@
 # Volume-Spread-Analysis-VSA-indicator-for-Metatrader-5
 **Volume Spread Analysis (VSA)** is a powerful trading methodology that examines the relationship between volume, price spread (range), and closing price to identify market reversals, continuations, and potential manipulation by "smart money." 
 
+
+VSA Example:
+
+
+![Image](https://github.com/user-attachments/assets/fdc1d710-c336-412d-9711-09e30c8b1a02)
+
+
+
 Key Features of the VSA Indicator:
 
 Identifies Supply & Demand Imbalances: Highlights when large players are accumulating or distributing positions.
@@ -144,10 +152,6 @@ In conjunction with classic candlestick patterns
 Final Note:
 In VSA, volume is the primary indicator—price simply follows volume. These colors help quickly visualize who is controlling the market (buyers or sellers) and when this control might be shifting.
 
-VSA Example:
-
-
-![Image](https://github.com/user-attachments/assets/fdc1d710-c336-412d-9711-09e30c8b1a02)
 
 
 
